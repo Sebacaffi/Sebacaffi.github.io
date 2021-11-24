@@ -39,5 +39,21 @@
       "carrera": "Diseño y vestuario",
       "imagen":"https://www.remax.cl/AreaGuideImages/1028/2620/47872/7896641/vinavalpo2.jpg"
     }
+  ],
+  "credenciales":[
+    {
+      "id": 1,
+      "username": "se.caffi",
+      "password": "123",
+      "nombre": "Sebastian",
+      "email": "se.caffi@duocuc.cl"
+    },
+    {
+      "id": 2,
+      "username": "al.maltrain",
+      "password": "123",
+      "nombre": "Alain",
+      "email": "al.maltrain@duocuc.cl"
+    }
   ]
 }
